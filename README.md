@@ -4,7 +4,7 @@
  
  ## Details
  
- The above files use different approaches to perform a merge sort.
+ The above files use different approaches to perform a Quick sort.
  
  ### 1. QuickSort - Skip Pivot
  
